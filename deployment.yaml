@@ -13,7 +13,7 @@ spec:
         app: menu-app
     spec:
       containers:
-      - name: menu_app_container
+      - name: menu-app-container
         image: gsaiadhinathareddy/menu_card:tagname
         ports:
         - containerPort: 80

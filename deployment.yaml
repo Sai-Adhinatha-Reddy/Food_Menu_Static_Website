@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: menu-app-container
-        image: gsaiadhinathareddy/menu_card:tagname
+        image: gsaiadhinathareddy/menu_card:latest
         ports:
         - containerPort: 80

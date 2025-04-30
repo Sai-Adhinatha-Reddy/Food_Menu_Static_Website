@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: menu_app_deployment
+  name: menu-app-deployment
 spec:
   replicas: 2
   selector:
